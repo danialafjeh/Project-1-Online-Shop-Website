@@ -35,3 +35,5 @@ Since my main expertise is backend development, the site’s UI is based on a fr
 💻 All Backend Logic Written by Me
 Only the visual layout comes from the template — every backend feature, logic, and interaction is fully implemented by myself.
 This project is recommended for Backend developing and logics.
+
+* NOTE : The language of this website is completely in Persian.
