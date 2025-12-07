@@ -30,7 +30,7 @@ Backend structure is Django MVT.
 The frontend uses basic web technologies to keep things lightweight and simple.
 
 🧱 Bootstrap Template (StartBootstrap)
-Since my main expertise is backend development, the site’s UI is based on a free template from startbootstrap.com.
+Since my main expertise is backend development, the site’s UI is based on a template from startbootstrap.com.
 
 💻 All Backend Logic Written by Me
 Only the visual layout comes from the template — every backend feature, logic, and interaction is fully implemented by myself.
