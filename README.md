@@ -27,7 +27,7 @@ Accurate backend calculation for totals, items, and ...
 🧩 Clean and Modular Backend Structure
 Each core feature is separated into clean Django apps for scalability.
 Backend structure is Django MVT.
-إB
+
 🎨 Frontend Details
 
 🎭 HTML / CSS / JavaScript Frontend
