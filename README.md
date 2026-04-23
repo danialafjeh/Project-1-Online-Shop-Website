@@ -1,7 +1,7 @@
 # About project
 🛒 Online Store Project — Key Features
 
-‼️ NOTE : All information saved in database are  just examples and completely fake.
+‼️ NOTE : All information saved in database are  just for examples and completely fake.
 
 ‼️ NOTE : The language of this website is completely in Persian.
 
