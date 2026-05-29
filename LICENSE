@@ -1,14 +1,21 @@
-Copyright (c) 2025 Danial Afjeh
+MIT License
 
-This project is created solely for educational and practice purposes. 
-The code is visible to the public, but any commercial use, deployment, 
-or redistribution without the author's explicit permission is prohibited.
+Copyright (c) 2026 Danial Afjeh
 
-You may use the ideas for learning and inspiration, but direct copying, 
-renaming the project, or publishing it as your own is not allowed.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-این پروژه صرفاً برای اهداف آموزشی و تمرینی ایجاد شده است. مشاهده کدها برای عموم آزاد است،  
-اما هرگونه استفاده تجاری، انتشار، یا دیپلوی واقعی بدون اجازه صریح نویسنده ممنوع است.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-شما می‌توانید از ایده‌ها برای یادگیری الهام بگیرید، اما اجازه کپی‌برداری مستقیم،  
-تغییر نام پروژه و انتشار به نام خودتان وجود ندارد.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
