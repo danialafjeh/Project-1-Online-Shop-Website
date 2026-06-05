@@ -1,6 +1,8 @@
 # About project
 🛒 Online Store Project — Key Features
 
+This project is my first project that i did via learning an amazing online course! it helped me a lot and it opened my prepective for my own further projects thanks to Mr Robot, a persian python programmer, teacher and youtuber :  @imrrobot on Youtube
+
 ‼️ NOTE : This is a portfolio project to showing my abilities and it's not a real deployed project. so all users and database are also exactly available.
 
 ‼️ NOTE : All information saved in database are  just for examples and completely fake.
