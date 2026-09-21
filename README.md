@@ -1,6 +1,6 @@
 # 💻 About project #1
 
-[Complete Guide | Run this project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)
+[Complete Guide | Run this project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)<br>
 Projects are numbered in development order. Higher numbers represent newer projects with increasing complexity and more advanced backend tools/concepts.
 
 # Store E-commerce Website 
