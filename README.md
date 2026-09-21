@@ -1,10 +1,11 @@
-# 💻 About project
+# 💻 About project #1
 
 [Complete Guide | Run this project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)
+Projects are numbered in development order. Higher numbers represent newer projects with increasing complexity and more advanced backend tools/concepts.
 
 # Store E-commerce Website 
 
-🌹 This project was my first old project that i did via learning an amazing online course! it helped me a lot and it opened my prepective for my own further projects thanks to Mr Robot, a persian python programmer, teacher and youtuber :  @imrrobot on Youtube
+🌹 This project was my first old project that i did via learning an amazing online course! it helped me a lot and it opened my prepective for my own further projects thanks to Mr Robot, a persian python programmer, teacher and youtuber :  @imrrobot on Youtube.
 
 ‼️ NOTE : This is a portfolio project to showing my abilities and it's not a real deployed project. so all users and database SQLite are also exactly available.
 
